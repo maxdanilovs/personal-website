@@ -41,7 +41,7 @@ function Home() {
         <div className="links row">
           <div className="col-xs-12 col-lg-6">
             <div className="link-button">
-              <a href="https://drive.google.com/file/d/1XAuPlbpqgaMErBgkOOY-kIhPOmuDZ9pi/view?usp=sharing" target="blank">
+              <a href="https://drive.google.com/file/d/1I1Qd1CSOw4XqmWuNoK-SKW0PFW5Xuzhg/view?usp=sharing" target="blank">
                 Resume
               </a>
             </div>
