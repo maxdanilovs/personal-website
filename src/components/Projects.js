@@ -12,7 +12,7 @@ function Projects() {
         <ProjectItem
           name="Scheduler"
           image={Scheduler}
-          link="https://max-rails-react-scheduler.herokuapp.com/"
+          link="https://dijinio-rails-react-scheduler.herokuapp.com/"
           git="https://github.com/maxdanilovs/rails-react-scheduler"
           description="Scheduler web application is an improved 'Todo app' made for skill demonstration purposes"
           tech={["Ruby on Rails", "ReactJS", "Postgresql/ActiveRecord"]}
@@ -21,7 +21,7 @@ function Projects() {
         <ProjectItem
           name="Minesweeper"
           image={Minesweeper}
-          link="https://max-mern-minesweeper.herokuapp.com/"
+          link="https://dijinio-mern-minesweeper.herokuapp.com/"
           git="https://github.com/maxdanilovs/node-react-minesweeper"
           description="Windows OS classic game. All the logic is in the backend to avoid hacking"
           tech={["Node/Express", "ReactJS", "MongoDB/Mongoose"]}

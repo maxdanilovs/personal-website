@@ -50,8 +50,8 @@ function About() {
               <hr/>
               <div className="codewars">
               <h4 className="text-center">Codewars</h4>
-                <a href="https://www.codewars.com/users/MaxDanilovs" target="blank">
-                  <img src="https://www.codewars.com/users/MaxDanilovs/badges/large" alt=""/>
+                <a href="https://www.codewars.com/users/Dijinio" target="blank">
+                  <img src="https://www.codewars.com/users/Dijinio/badges/large" alt=""/>
                 </a>
               </div>
             </div>
