@@ -11,9 +11,9 @@ function Contact() {
       <div className="container contact-main">
         <div className="row">
           <div className="col-xs-12 col-lg-6">
-            <p className="phone"><i className="fa fa-mobile"></i>07449-367318</p>
+            <p className="phone"><i className="fa fa-mobile"></i>06850-23337</p>
             <p className="email"><i className="fa fa-envelope"></i>maxdanilovsdev@gmail.com</p>
-            <p className="address"><i className="fa fa-map-marker"></i>United Kingdom</p>
+            <p className="address"><i className="fa fa-map-marker"></i>Netherlands</p>
           </div>
           <div className="col-xs-12 col-lg-6">
             <div className="logo-and-social">
@@ -28,7 +28,7 @@ function Contact() {
                       <i className="fa fa-github"></i>GitHub</a>
                     </li>
                     <li>
-                      <a href="https://wa.me/447448367318" target="blank">
+                      <a href="https://wa.me/31685023337" target="blank">
                       <i className="fa fa-whatsapp"></i>Whatsapp</a>
                     </li>
                   </ul>
